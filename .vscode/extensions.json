@@ -6,6 +6,8 @@
         "miguelsolorio.symbols",
         "johnpapa.read-time",
         "jnhi.jnhi-plugin",
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "github.vscode-pull-request-github",
+        "docker.docker"
     ]
 }
