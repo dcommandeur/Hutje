@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-azuretools.vscode-containers",
+        "github.copilot-chat",
+        "ahmadawais.shades-of-purple",
+        "miguelsolorio.symbols",
+        "johnpapa.read-time",
+        "jnhi.jnhi-plugin",
+        "ms-vscode-remote.remote-containers"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "D|Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:noble",
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {
+			"installDirectlyFromGitHubRelease": true,
+			"version": "latest"
+		},
+		"ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com:1": {
+			"version": "latest"
+		}
+	},
+	"postCreateCommand": "uname -a",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-azuretools.vscode-containers",
+				"github.copilot-chat",
+				"ahmadawais.shades-of-purple",
+				"miguelsolorio.symbols",
+				"johnpapa.read-time",
+				"jnhi.jnhi-plugin",
+				"ms-vscode-remote.remote-containers"
+			]
+		}
+	}
+	// "forwardPorts": [],
+}
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu

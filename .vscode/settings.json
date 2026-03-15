@@ -1,0 +1,40 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "breadcrumbs.enabled": true,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "workbench.iconTheme": "symbols",
+    "symbols.files.associations": {},
+    "symbols.folders.associations": {},
+    "readTime.enabled": true,
+    "readTime.wordsPerMinute": 180,
+    "readTime.fileTypes": [
+        "markdown",
+        "plaintext",
+        "yaml",
+        "json"
+    ],
+    "workbench.productIconTheme": "vscode-v1-icons",
+    // localText文件目录
+    "jnhi-plugin.localTextPath": "language\\localText.lua",
+    // 目录存在这个名字，每次修改目录下面的文件时自动更新字典
+    "jnhi-plugin.locLangExp": "language",
+    // G_lang匹配格式
+    "jnhi-plugin.regExp": "G_lang('$1')",
+    // tr匹配格式
+    "jnhi-plugin.regExpTr": "tr('$1')",
+    //tr文件目录
+    "jnhi-plugin.trDir": "language\\zh_cn\\",
+    "editor.renderWhitespace": "selection",
+    "editor.fontFamily": "Cascadia Mono, 'Courier New', monospace",
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.fontLigatures": true,
+    "editor.glyphMargin": true,
+    "editor.minimap.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "explorer.decorations.badges": true,
+    "explorer.decorations.colors": true,
+    "window.commandCenter": true,
+    "git.enableSmartCommit": true,
+}
