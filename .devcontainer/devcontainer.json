@@ -6,7 +6,7 @@
 			"installDirectlyFromGitHubRelease": true,
 			"version": "latest"
 		},
-		"ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com:1": {
+		"ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com:": {
 			"version": "latest"
 		}
 	},
