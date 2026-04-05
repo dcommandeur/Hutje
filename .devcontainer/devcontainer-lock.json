@@ -1,9 +1,9 @@
 {
   "features": {
-    "ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com:1": {
-      "version": "1.0.1",
-      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com@sha256:a16b8f369606d86e86ccc6ba43823625eef8fd0edffbfa93e543895b55cdc193",
-      "integrity": "sha256:a16b8f369606d86e86ccc6ba43823625eef8fd0edffbfa93e543895b55cdc193"
+    "ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com:": {
+      "version": "1.0.4",
+      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/asdf-vm.com@sha256:1a27bb6872f38e083c52358fdec89e187b79ee1bd0b76f83818aa63b170c173e",
+      "integrity": "sha256:1a27bb6872f38e083c52358fdec89e187b79ee1bd0b76f83818aa63b170c173e"
     },
     "ghcr.io/devcontainers/features/github-cli:1": {
       "version": "1.1.0",
